@@ -9,6 +9,9 @@ Step 1: Cleaning data
 
 Step 2: Data analysis
 
+Pivot table
+![Pivot table](https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/HR%20Data%20Analysis%20in%20Excel_project/pivot_table_HR.png)
+
 Step 3: Storytelling 
 
 Step 4: Dashboarding
