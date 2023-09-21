@@ -5,6 +5,7 @@ hands on Data Analytics projects by Excel with real data from Kaggle and others.
 
 + function [index, match]( https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/Index%20and%20Match_basic%20to%20advanced.pdf)
 
++ Data analysis in Excel: [Power Query, Data Model](https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/Data%20Analysis%20skills%20in%20Excel_Power%20Querry%2C%20Data%20Model.pdf)
 
 1/ [HR Data Analysis in Excel](https://github.com/vanthachvn80/Excel_hands-on_projects/tree/main/HR%20Data%20Analysis%20in%20Excel_project) followed Paul van der Laken’s guide  from [aihr.com](https://www.aihr.com/blog/hr-data-analysis-excel/) with dataset from [Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
