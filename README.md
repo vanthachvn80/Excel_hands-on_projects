@@ -1,9 +1,8 @@
 # Excel_ DATA ANALYTICS projects
 hands on Data Analytics projects by Excel with real data from Kaggle and others.
 
-+ function [indirect]( https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/h%C3%A0m%20indirect%20trong%20Excel.pdf) in Excel
-
-+ function [index, match]( https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/Index%20and%20Match_basic%20to%20advanced.pdf)
++ functions in Excel: 
+[indirect]( https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/h%C3%A0m%20indirect%20trong%20Excel.pdf), [index, match]( https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/Index%20and%20Match_basic%20to%20advanced.pdf)
 
 + Data analysis in Excel: [Power Query, Data Model](https://github.com/vanthachvn80/Excel_hands-on_projects/blob/main/Data%20Analysis%20skills%20in%20Excel_Power%20Querry%2C%20Data%20Model.pdf)
 
